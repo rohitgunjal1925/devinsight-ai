@@ -1,0 +1,9 @@
+team_id,team_name,department,team_lead_id,created_date
+T001,Backend Engineering,Engineering,D001,2024-06-10
+T002,Frontend Engineering,Engineering,D002,2022-03-12
+T003,Mobile Engineering,Engineering,D003,2021-10-29
+T004,Data Engineering,Data,D004,2024-11-15
+T005,DevOps Engineering,Engineering,D005,2022-11-22
+T006,QA Engineering,Quality,D006,2022-10-06
+T007,AI Engineering,Artificial Intelligence,D007,2022-09-02
+T008,Platform Engineering,Engineering,D008,2022-04-25
